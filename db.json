@@ -1,6 +1,11 @@
 [{
+  "posts": [
+    {
       "id": 1,
-      "type":"other",
-      "completed":"false"
+      "title": "hello"
     }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
