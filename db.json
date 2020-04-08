@@ -1,4 +1,4 @@
-{ 
+[ 
     {
       "id": 1,
       "type":"other",
@@ -24,4 +24,4 @@
       "type":"other",
       "completed":"false",
     },
-}
+]
