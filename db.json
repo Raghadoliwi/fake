@@ -2,31 +2,26 @@
     {
       "id": 1,
       "type":"other",
-      "title":"ترتيب المكتبة",
       "completed":"false",
     },
     {
       "id": 2,
       "type":"out",
-      "title":"مقاضي الأسبوع",
       "completed":"false",
     },
     {
       "id": 3,
       "type":"work",
-      "title":"أرفع الأسايمنت",
       "completed":"true",
     },
     {
       "id": 4,
       "type":"workout",
-      "title":"15 min pilates workout",
       "completed":"false",
     },
     {
       "id": 5,
       "type":"other",
-      "title":"30 min reading - The gift of pain",
       "completed":"false",
     },
 ]
