@@ -1,26 +1,26 @@
 [{
       "id": 1,
       "type":"other",
-      "completed":"false",
+      "completed":"false"
     },
     {
       "id": 2,
       "type":"out",
-      "completed":"false",
+      "completed":"false"
     },
     {
       "id": 3,
       "type":"work",
-      "completed":"true",
+      "completed":"true"
     },
     {
       "id": 4,
       "type":"workout",
-      "completed":"false",
+      "completed":"false"
     },
     {
       "id": 5,
       "type":"other",
-      "completed":"false",
+      "completed":"false"
     },
 ]
