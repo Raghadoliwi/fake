@@ -1,16 +1,5 @@
 [ 
-    {
-      "id": 1,
-      "type":"other"
-      "title": "ترتيب المكتبة",
-      "completed":"false",
-    },
-    {
-      "id": 2,
-      "type":"out"
-      "title": "مقاضي الأسبوع",
-      "completed":"false",
-    },
+
     {
       "id": 3,
       "type":"work"
