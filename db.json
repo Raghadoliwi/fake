@@ -2,14 +2,14 @@
   "todo": [
     {
       "id": 1,
-      "type":"other",
+      "type":"home",
       "title":"ترتيب المكتبة",
       "completed":"false",
       "key":4321
     },
     {
       "id": 2,
-      "type":"home",
+      "type":"other",
       "title":"مقاضي الأسبوع",
       "completed":"false",
       "key":3987
